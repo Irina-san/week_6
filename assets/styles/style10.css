@@ -1,0 +1,103 @@
+
+body{
+margin-left: 100px;
+margin-right: 40px;
+}
+
+header{
+display: inline-flex;
+flex-flow: row nowrap;
+width: 100%;
+list-style: none;
+justify-content: space-around;
+align-content: center;
+margin: 50;
+padding: 20px;
+
+}
+
+button {
+display: block;
+  background: #2d635e;
+  mix-blend-mode: normal;
+  box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 7px;
+  width: 135px;
+height: 43px;
+text-decoration: none;
+}
+.buttonhead{
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+color: #FFFFFF;
+}
+.buttonmain {
+font-family: 'George Round';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+color: #FFFFFF;
+}
+nav{
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+text-align: justify;
+color: #000000;
+}
+p {
+font-family: "Alegreya Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 36px;
+}
+
+h1 {
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 63px;
+  line-height: 63px;
+  color: #000000;
+}
+h2 {
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 38px;
+  line-height: 38px;
+  display: flex;
+  align-items: center;
+}
+.section{
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+background: #E3EBE7;
+}
+
+.stiker {
+  font-family: "Cedarville Cursive";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 53px;
+}
+footer{
+    display: flex;
+}
+.map56{
+margin-top: 2rem;
+}
+
+.address{
+margin-top: 2rem;
+list-style: none;
+}
